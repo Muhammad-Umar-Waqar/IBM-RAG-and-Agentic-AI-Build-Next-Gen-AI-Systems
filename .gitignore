@@ -1,0 +1,68 @@
+# ================================
+# 🧠 Python / Flask / Gradio Projects
+# ================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+ENV/
+env/
+
+# Gradio runtime data
+.gradio/
+
+# Flask instance folders
+instance/
+*.db
+*.sqlite3
+
+# uv and dependency caches
+.uv_cache/
+# (Keep uv.lock - do not ignore it)
+!uv.lock
+
+# ================================
+# 🧩 OS & IDE Specific Files
+# ================================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code / JetBrains IDEs
+.vscode/
+.idea/
+
+# ================================
+# 🚫 Git Related
+# ================================
+
+# Ignore nested repos if accidentally included
+**/.git/
+**/.gitmodules
+
+# ================================
+# 🧰 Misc
+# ================================
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Jupyter Notebooks checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Cache from tools like pytest, coverage, etc.
+.cache/
+coverage/
+.pytest_cache/
