@@ -19,11 +19,11 @@ Throughout the course, I learned how to:
 
 | Folder/File | Description |
 |--------------|-------------|
-| 📘 **/pdfs** | All course-related PDFs and reference materials |
-| 🧾 **/notes** | My handwritten or typed notes organized by module |
-| 💡 **/concepts** | Key takeaways, definitions, and core concepts |
-| 🧪 **/experiments** | Sample implementations or test scripts related to RAG & Agentic AI |
-| 🧠 **README.md** | You are here! Overview of the repository |
+| 🧠 **IBM-agentic-AI/** | Contains code and resources for Agentic AI implementations |
+| 🧩 **IBM-VECTOR-DATABASES/** | Includes projects and examples related to vector databases and embeddings |
+| 🤖 **IBM-RAG/** | Houses Retrieval-Augmented Generation (RAG) related code and assets |
+| 📘 **README.md** | Repository overview and documentation |
+
 
 ---
 
