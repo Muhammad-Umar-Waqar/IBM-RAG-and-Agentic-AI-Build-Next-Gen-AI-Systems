@@ -58,7 +58,6 @@ It’s designed to help others:
 **Muhammad Umar**  
 📍 AI & MERN Stack Developer  
 💼 Exploring the intersection of **AI, LLMs, and Intelligent Applications**  
-🌐 [LinkedIn](#) | [Portfolio](#)
 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-umar-waqar/) | [Portfolio](https://connect-with-umar.vercel.app/)
 
 ---
