@@ -19,27 +19,27 @@ Throughout the course, I learned how to:
 
 | Folder/File | Description |
 |--------------|-------------|
-| 📘 **/pdfs** | All course-related PDFs and reference materials |
-| 🧾 **/notes** | My handwritten or typed notes organized by module |
-| 💡 **/concepts** | Key takeaways, definitions, and core concepts |
-| 🧪 **/experiments** | Sample implementations or test scripts related to RAG & Agentic AI |
-| 🧠 **README.md** | You are here! Overview of the repository |
+| 🧠 **IBM-agentic-AI/** | Contains code and resources for Agentic AI implementations |
+| 🧩 **IBM-VECTOR-DATABASES/** | Includes projects and examples related to vector databases and embeddings |
+| 🤖 **IBM-RAG/** | Houses Retrieval-Augmented Generation (RAG) related code and assets |
+| 📘 **README.md** | Repository overview and documentation |
+
 
 ---
 
 ## 🚀 Key Learning Areas  
 
 - 🔍 **Retrieval-Augmented Generation (RAG)**  
-  Combine LLMs with external knowledge bases for more accurate and verifiable answers.  
+Combine LLMs with external knowledge bases for more accurate and verifiable answers.  
 
 - 🤖 **Agentic AI**  
-  Enable AI systems to act autonomously, make decisions, and perform goal-oriented tasks.  
+Enable AI systems to act autonomously, make decisions, and perform goal-oriented tasks.  
 
 - 🧩 **LLM Integration**  
-  Explore methods to extend the power of Large Language Models through external data retrieval and orchestration.  
+Explore methods to extend the power of Large Language Models through external data retrieval and orchestration.  
 
 - ☁️ **IBM Tools & Frameworks**  
-  Practical exposure to IBM’s AI ecosystem for building next-gen AI applications.  
+Practical exposure to IBM’s AI ecosystem for building next-gen AI applications.  
 
 ---
 
@@ -58,6 +58,7 @@ It’s designed to help others:
 **Muhammad Umar**  
 📍 AI & MERN Stack Developer  
 💼 Exploring the intersection of **AI, LLMs, and Intelligent Applications**  
+🌐 [LinkedIn](#) | [Portfolio](#)
 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-umar-waqar/) | [Portfolio](https://connect-with-umar.vercel.app/)
 
 ---
